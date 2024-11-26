@@ -58,27 +58,6 @@ function generateHTML(data) {
 
     // image link
     const imageurl = document.getElementById('imageurl');
+    console.log(imageurl);
     imageurl.innerHTML = `<a href="${data.image}">`+data.image+"</a>";
 }
-
-function filterItems(searchTerm) {
-    const filteredData = jsonData.filter(
-        item => item.name.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-    const containter = document.getElementById("results");
-    if (searchTerm) {
-        containter.textContent = `found ${filteredData.length} result(s)`;
-    } else {
-        containter.textContent = 'from @hotdogwars_bot'
-    }
-    generateHTML(filteredData);
-}
-
-function searchItems() {
-    const searchTerm = document.getElementById('search').value;
-    filterItems(searchTerm);
-}
-
-// window.onload = () => {
-//     generateHTML(jsonData);
-// };
