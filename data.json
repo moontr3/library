@@ -1,0 +1,211 @@
+[
+    {
+        "name": "abandoned",
+        "image": "https://@moontr3.ru/assets/hdw/abandoned.jpg",
+        "description": "long forgotten hotdog man, stalking the abandoned building",
+        "hp": "25<span class=\"darker\">-</span>35",
+        "damage": "5<span class=\"darker\">-</span>10",
+        "stamina": 1,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can focus without spending a turn"
+    },
+    {
+        "name": "bedroom",
+        "image": "https://@moontr3.ru/assets/hdw/bedroom.jpg",
+        "description": "hotdog man that slowly creeps towards you as you fall asleep",
+        "hp": "15<span class=\"darker\">-</span>20",
+        "damage": "10<span class=\"darker\">-</span>15",
+        "stamina": 2,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can heal 5-10 HP and deal 5 damage"
+    },
+    {
+        "name": "comic",
+        "image": "https://@moontr3.ru/assets/hdw/comic.jpg",
+        "description": "strong hotdog man straight from a handdrawn manga",
+        "hp": "25<span class=\"darker\">-</span>35",
+        "damage": "10",
+        "stamina": 2,
+        "upgrade": 40,
+        "author": "@moontr3",
+        "special": "special deals 5-10 damage every 3 turns without spending a turn"
+    },
+    {
+        "name": "drawing",
+        "image": "https://@moontr3.ru/assets/hdw/drawing.jpg",
+        "description": "fanart of an mlg 2010 lookin hotdog man",
+        "hp": "30<span class=\"darker\">-</span>40",
+        "damage": "5",
+        "stamina": 1,
+        "upgrade": 40,
+        "author": "@moontr3",
+        "special": "special deals 10-30 damage every 3 turns, available after lv.5"
+    },
+    {
+        "name": "evil",
+        "image": "https://@moontr3.ru/assets/hdw/evil.jpg",
+        "description": "the evilest hotdog man known to man",
+        "hp": "25<span class=\"darker\">-</span>35",
+        "damage": "5<span class=\"darker\">-</span>10",
+        "stamina": 1,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special deals base damage and heals 5-10 HP every 3 turns, available after lv.5"
+    },
+    {
+        "name": "high-res",
+        "image": "https://@moontr3.ru/assets/hdw/highres.jpg",
+        "description": "the original high-quality hotdog man art",
+        "hp": "30<span class=\"darker\">-</span>40",
+        "damage": "10<span class=\"darker\">-</span>15",
+        "stamina": 2,
+        "upgrade": 40,
+        "author": "alex callaway",
+        "special": "special can focus every 3 turns without spending a turn, available after lv.10"
+    },
+    {
+        "name": "mall",
+        "image": "https://@moontr3.ru/assets/hdw/mall.webp",
+        "description": "hotdog man going shopping in an abandoned mall",
+        "hp": "20<span class=\"darker\">-</span>25",
+        "damage": "4<span class=\"darker\">-</span>7",
+        "stamina": 3,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special focuses and deals 10 damage every 3 turns"
+    },
+    {
+        "name": "mickey mouse",
+        "image": "https://@moontr3.ru/assets/hdw/mickeymouse.jpg",
+        "description": "mickey the mouse has become the hotdog man",
+        "hp": "30<span class=\"darker\">-</span>40",
+        "damage": "15<span class=\"darker\">-</span>20",
+        "stamina": 3,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "great stats overall, but no special available"
+    },
+    {
+        "name": "mirror",
+        "image": "https://@moontr3.ru/assets/hdw/mirror.jpg",
+        "description": "a meme of hotdog man admiring himself in a mirror",
+        "hp": "25<span class=\"darker\">-</span>30",
+        "damage": "5<span class=\"darker\">-</span>10",
+        "stamina": 2,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can heal 5-8 HP without spending a turn, available after lv.5"
+    },
+    {
+        "name": "og",
+        "image": "https://@moontr3.ru/assets/hdw/og.jpg",
+        "description": "the one and only og hotdog man that started it all",
+        "hp": "30",
+        "damage": "10",
+        "stamina": 2,
+        "upgrade": 40,
+        "author": "god knows who",
+        "special": "special can deal 5 damage every 2 turns without spending a turn"
+    },
+    {
+        "name": "old king",
+        "image": "https://@moontr3.ru/assets/hdw/oldking.jpg",
+        "description": "the great ruler of the hotdog man kingdom",
+        "hp": "35<span class=\"darker\">-</span>45",
+        "damage": "3<span class=\"darker\">-</span>7",
+        "stamina": 1,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can focus and heal 5 HP every 2 turns without spending a turn"
+    },
+    {
+        "name": "on sale",
+        "image": "https://@moontr3.ru/assets/hdw/onsale.jpg",
+        "description": "hotdog man, a very cheap one at that",
+        "hp": "25<span class=\"darker\">-</span>30",
+        "damage": "10<span class=\"darker\">-</span>15",
+        "stamina": 2,
+        "upgrade": 25,
+        "author": "god knows who",
+        "special": "special can heal 5-10 HP and focus every 3 turns"
+    },
+    {
+        "name": "poster",
+        "image": "https://@moontr3.ru/assets/hdw/poster.jpg",
+        "description": "the \"you are what you eat\" artwork by alex callaway",
+        "hp": "20<span class=\"darker\">/</span>25<span class=\"darker\">/</span>30<span class=\"darker\">/</span>35",
+        "damage": "5<span class=\"darker\">/</span>10<span class=\"darker\">/</span>15",
+        "stamina": 2,
+        "upgrade": 40,
+        "author": "god knows who",
+        "special": "special can deal either 5, 10 or 15 damage every 3 turns without spending a turn. available from lv.5"
+    },
+    {
+        "name": "retro",
+        "image": "https://@moontr3.ru/assets/hdw/retro.png",
+        "description": "hotdog man in a pixelated tv-screen retro world",
+        "hp": "15<span class=\"darker\">-</span>40",
+        "damage": "2<span class=\"darker\">-</span>20",
+        "stamina": 2,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can heal 2-15 HP every 2 turns without spending a turn"
+    },
+    {
+        "name": "snowy type 1",
+        "image": "https://@moontr3.ru/assets/hdw/snowy1.jpg",
+        "description": "hotdog man hidden behind the trees watching your window",
+        "hp": "30<span class=\"darker\">-</span>40",
+        "damage": "5<span class=\"darker\">-</span>10",
+        "stamina": 3,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can deal 5 damage every 2 turns without spending a turn"
+    },
+    {
+        "name": "snowy type 2",
+        "image": "https://@moontr3.ru/assets/hdw/snowy2.jpg",
+        "description": "you staring at the hotdog man ready to run",
+        "hp": "25<span class=\"darker\">-</span>30",
+        "damage": "10<span class=\"darker\">-</span>15",
+        "stamina": 3,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can heal 5 HP every 3 turns"
+    },
+    {
+        "name": "street type 1",
+        "image": "https://@moontr3.ru/assets/hdw/street1.jpg",
+        "description": "hotdog man is getting closer and closer to your home",
+        "hp": "15<span class=\"darker\">-</span>40",
+        "damage": "5<span class=\"darker\">-</span>10",
+        "stamina": 3,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can focus 2 times, available after lv.5"
+    },
+    {
+        "name": "street type 2",
+        "image": "https://@moontr3.ru/assets/hdw/street2.jpg",
+        "description": "he is watching your window in hopes of finding you",
+        "hp": "25<span class=\"darker\">-</span>35",
+        "damage": "3<span class=\"darker\">-</span>15",
+        "stamina": 3,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can focus 2 times, available after lv.5"
+    },
+    {
+        "name": "twins",
+        "image": "https://@moontr3.ru/assets/hdw/twins.jpg",
+        "description": "twin hotdog mans exploring an abandoned house",
+        "hp": "17<span class=\"darker\">-</span>23",
+        "damage": "14<span class=\"darker\">-</span>18",
+        "stamina": 2,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can force each twin to heal either 0 or 10 hp every 2 turns"
+    }
+]
