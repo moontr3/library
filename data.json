@@ -1,7 +1,7 @@
 [
     {
         "name": "abandoned",
-        "image": "https://@moontr3.ru/assets/hdw/abandoned.jpg",
+        "image": "https://moontr3.ru/assets/hdw/abandoned.jpg",
         "description": "long forgotten hotdog man, stalking the abandoned building",
         "hp": "25<span class=\"darker\">-</span>35",
         "damage": "5<span class=\"darker\">-</span>10",
@@ -12,7 +12,7 @@
     },
     {
         "name": "bedroom",
-        "image": "https://@moontr3.ru/assets/hdw/bedroom.jpg",
+        "image": "https://moontr3.ru/assets/hdw/bedroom.jpg",
         "description": "hotdog man that slowly creeps towards you as you fall asleep",
         "hp": "15<span class=\"darker\">-</span>20",
         "damage": "10<span class=\"darker\">-</span>15",
@@ -23,7 +23,7 @@
     },
     {
         "name": "comic",
-        "image": "https://@moontr3.ru/assets/hdw/comic.jpg",
+        "image": "https://moontr3.ru/assets/hdw/comic.jpg",
         "description": "strong hotdog man straight from a handdrawn manga",
         "hp": "25<span class=\"darker\">-</span>35",
         "damage": "10",
@@ -34,7 +34,7 @@
     },
     {
         "name": "drawing",
-        "image": "https://@moontr3.ru/assets/hdw/drawing.jpg",
+        "image": "https://moontr3.ru/assets/hdw/drawing.jpg",
         "description": "fanart of an mlg 2010 lookin hotdog man",
         "hp": "30<span class=\"darker\">-</span>40",
         "damage": "5",
@@ -45,7 +45,7 @@
     },
     {
         "name": "evil",
-        "image": "https://@moontr3.ru/assets/hdw/evil.jpg",
+        "image": "https://moontr3.ru/assets/hdw/evil.jpg",
         "description": "the evilest hotdog man known to man",
         "hp": "25<span class=\"darker\">-</span>35",
         "damage": "5<span class=\"darker\">-</span>10",
@@ -56,7 +56,7 @@
     },
     {
         "name": "high-res",
-        "image": "https://@moontr3.ru/assets/hdw/highres.jpg",
+        "image": "https://moontr3.ru/assets/hdw/highres.jpg",
         "description": "the original high-quality hotdog man art",
         "hp": "30<span class=\"darker\">-</span>40",
         "damage": "10<span class=\"darker\">-</span>15",
@@ -67,7 +67,7 @@
     },
     {
         "name": "mall",
-        "image": "https://@moontr3.ru/assets/hdw/mall.webp",
+        "image": "https://moontr3.ru/assets/hdw/mall.webp",
         "description": "hotdog man going shopping in an abandoned mall",
         "hp": "20<span class=\"darker\">-</span>25",
         "damage": "4<span class=\"darker\">-</span>7",
@@ -78,7 +78,7 @@
     },
     {
         "name": "mickey mouse",
-        "image": "https://@moontr3.ru/assets/hdw/mickeymouse.jpg",
+        "image": "https://moontr3.ru/assets/hdw/mickeymouse.jpg",
         "description": "mickey the mouse has become the hotdog man",
         "hp": "30<span class=\"darker\">-</span>40",
         "damage": "15<span class=\"darker\">-</span>20",
@@ -89,7 +89,7 @@
     },
     {
         "name": "mirror",
-        "image": "https://@moontr3.ru/assets/hdw/mirror.jpg",
+        "image": "https://moontr3.ru/assets/hdw/mirror.jpg",
         "description": "a meme of hotdog man admiring himself in a mirror",
         "hp": "25<span class=\"darker\">-</span>30",
         "damage": "5<span class=\"darker\">-</span>10",
@@ -100,7 +100,7 @@
     },
     {
         "name": "og",
-        "image": "https://@moontr3.ru/assets/hdw/og.jpg",
+        "image": "https://moontr3.ru/assets/hdw/og.jpg",
         "description": "the one and only og hotdog man that started it all",
         "hp": "30",
         "damage": "10",
@@ -111,7 +111,7 @@
     },
     {
         "name": "old king",
-        "image": "https://@moontr3.ru/assets/hdw/oldking.jpg",
+        "image": "https://moontr3.ru/assets/hdw/oldking.jpg",
         "description": "the great ruler of the hotdog man kingdom",
         "hp": "35<span class=\"darker\">-</span>45",
         "damage": "3<span class=\"darker\">-</span>7",
@@ -122,7 +122,7 @@
     },
     {
         "name": "on sale",
-        "image": "https://@moontr3.ru/assets/hdw/onsale.jpg",
+        "image": "https://moontr3.ru/assets/hdw/onsale.jpg",
         "description": "hotdog man, a very cheap one at that",
         "hp": "25<span class=\"darker\">-</span>30",
         "damage": "10<span class=\"darker\">-</span>15",
@@ -133,7 +133,7 @@
     },
     {
         "name": "poster",
-        "image": "https://@moontr3.ru/assets/hdw/poster.jpg",
+        "image": "https://moontr3.ru/assets/hdw/poster.jpg",
         "description": "the \"you are what you eat\" artwork by alex callaway",
         "hp": "20<span class=\"darker\">/</span>25<span class=\"darker\">/</span>30<span class=\"darker\">/</span>35",
         "damage": "5<span class=\"darker\">/</span>10<span class=\"darker\">/</span>15",
@@ -144,7 +144,7 @@
     },
     {
         "name": "retro",
-        "image": "https://@moontr3.ru/assets/hdw/retro.png",
+        "image": "https://moontr3.ru/assets/hdw/retro.png",
         "description": "hotdog man in a pixelated tv-screen retro world",
         "hp": "15<span class=\"darker\">-</span>40",
         "damage": "2<span class=\"darker\">-</span>20",
@@ -155,7 +155,7 @@
     },
     {
         "name": "snowy type 1",
-        "image": "https://@moontr3.ru/assets/hdw/snowy1.jpg",
+        "image": "https://moontr3.ru/assets/hdw/snowy1.jpg",
         "description": "hotdog man hidden behind the trees watching your window",
         "hp": "30<span class=\"darker\">-</span>40",
         "damage": "5<span class=\"darker\">-</span>10",
@@ -166,7 +166,7 @@
     },
     {
         "name": "snowy type 2",
-        "image": "https://@moontr3.ru/assets/hdw/snowy2.jpg",
+        "image": "https://moontr3.ru/assets/hdw/snowy2.jpg",
         "description": "you staring at the hotdog man ready to run",
         "hp": "25<span class=\"darker\">-</span>30",
         "damage": "10<span class=\"darker\">-</span>15",
@@ -177,7 +177,7 @@
     },
     {
         "name": "street type 1",
-        "image": "https://@moontr3.ru/assets/hdw/street1.jpg",
+        "image": "https://moontr3.ru/assets/hdw/street1.jpg",
         "description": "hotdog man is getting closer and closer to your home",
         "hp": "15<span class=\"darker\">-</span>40",
         "damage": "5<span class=\"darker\">-</span>10",
@@ -188,7 +188,7 @@
     },
     {
         "name": "street type 2",
-        "image": "https://@moontr3.ru/assets/hdw/street2.jpg",
+        "image": "https://moontr3.ru/assets/hdw/street2.jpg",
         "description": "he is watching your window in hopes of finding you",
         "hp": "25<span class=\"darker\">-</span>35",
         "damage": "3<span class=\"darker\">-</span>15",
@@ -199,7 +199,7 @@
     },
     {
         "name": "twins",
-        "image": "https://@moontr3.ru/assets/hdw/twins.jpg",
+        "image": "https://moontr3.ru/assets/hdw/twins.jpg",
         "description": "twin hotdog mans exploring an abandoned house",
         "hp": "17<span class=\"darker\">-</span>23",
         "damage": "14<span class=\"darker\">-</span>18",

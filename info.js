@@ -56,6 +56,9 @@ function generateHTML(data) {
     const special = document.getElementById('special');
     special.textContent = data.special;
 
+    // image link
+    const imageurl = document.getElementById('imageurl');
+    imageurl.innerHTML = `<a href="${data.image}">`+data.image+"</a>";
 }
 
 function filterItems(searchTerm) {
