@@ -17,47 +17,47 @@ fetch('data.json')
     });
 
 // Function to generate HTML for each item
-function generateHTML(data) {
-    console.log(data);
+function generateHTML(hdata) {
+    console.log(hdata);
 
     const name = document.getElementById('name');
-    name.innerHTML = '<span class="hash">#</span> '+data.name;
+    name.innerHTML = '<span class="hash">#</span> '+hdata.name;
     
     const author = document.getElementById('author');
-    author.textContent = `made by ${data.author}`;
+    author.textContent = `made by ${hdata.author}`;
     
     // image
     const img = document.getElementById('image');
-    img.src = data.image;
+    img.src = hdata.image;
 
     // description
     const description = document.getElementById('description');
-    description.textContent = data.description;
+    description.textContent = hdata.description;
 
     // stats
 
     // hp
     const hp = document.getElementById('health');
-    hp.innerHTML = data.hp;
+    hp.innerHTML = hdata.hp;
 
     // damage
     const damage = document.getElementById('damage');
-    damage.innerHTML = data.damage;
+    damage.innerHTML = hdata.damage;
 
     // stamina
     const stamina = document.getElementById('stamina');
-    stamina.innerHTML = data.stamina;
+    stamina.innerHTML = hdata.stamina;
 
     // upgrades
     const upgrades = document.getElementById('upgrade');
-    upgrades.innerHTML = "<span class=\"darker\">x</span>"+data.upgrade;
+    upgrades.innerHTML = "<span class=\"darker\">x</span>"+hdata.upgrade;
 
     // special
     const special = document.getElementById('special');
-    special.textContent = data.special;
+    special.textContent = hdata.special;
 
     // image link
     const imageurl = document.getElementById('imageurl');
     console.log(imageurl);
-    imageurl.innerHTML = `<a href="${data.image}">`+data.image+"</a>";
+    imageurl.innerHTML = `<a href="${hdata.image}">`+hdata.image+"</a>";
 }
