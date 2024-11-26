@@ -55,9 +55,12 @@ function generateHTML(hdata) {
     // special
     const special = document.getElementById('special');
     special.textContent = hdata.special;
+    console.log('test');
 
     // image link
+    console.log('test2');
     const imageurl = document.getElementById('imageurl');
+    console.log('test3');
     console.log(imageurl);
     imageurl.innerHTML = `<a href="${hdata.image}">`+hdata.image+"</a>";
 }
