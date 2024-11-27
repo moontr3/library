@@ -55,6 +55,17 @@
         "special": "special deals base damage and heals 5-10 HP every 3 turns, available after lv.5"
     },
     {
+        "name": "giant",
+        "image": "https://moontr3.ru/assets/hdw/giant.jpg",
+        "description": "overlooking the whole city like he's the king",
+        "hp": "35<span class=\"darker\">-</span>45",
+        "damage": "3<span class=\"darker\">-</span>7",
+        "stamina": 2,
+        "upgrade": 40,
+        "author": "@hotdogmanisreal",
+        "special": "special can deal 7-12 damage every 3 turns without spending a turn"
+    },
+    {
         "name": "high-res",
         "image": "https://moontr3.ru/assets/hdw/highres.jpg",
         "description": "the original high-quality hotdog man art",
