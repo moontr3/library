@@ -33,6 +33,17 @@
         "special": "special deals 5-10 damage every 3 turns without spending a turn"
     },
     {
+        "name": "conditions",
+        "image": "https://moontr3.ru/assets/hdw/conditions.jpg",
+        "description": "на кондициях 🤟🤟<br>limited 11 dec 2024 - 14 dec 2024",
+        "hp": "35<span class=\"darker\">-</span>40",
+        "damage": "10<span class=\"darker\">-</span>15",
+        "stamina": 3,
+        "upgrade": 40,
+        "author": "@morityu",
+        "special": "special can heal 10-15 hp without spending a turn"
+    },
+    {
         "name": "drawing",
         "image": "https://moontr3.ru/assets/hdw/drawing.jpg",
         "description": "fanart of an mlg 2010 lookin hotdog man",
