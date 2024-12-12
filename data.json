@@ -8,7 +8,18 @@
         "stamina": 1,
         "upgrade": 40,
         "author": "@hotdogmanisreal",
-        "special": "special can focus without spending a turn"
+        "special": "special can focus every 2 turns without spending a turn"
+    },
+    {
+        "name": "bebenai",
+        "image": "https://moontr3.ru/assets/hdw/bebenai.jpg",
+        "description": "mischevious snail that is defnitely not bebe",
+        "hp": "10<span class=\"darker\">-</span>15",
+        "damage": "5<span class=\"darker\">-</span>10",
+        "stamina": 3,
+        "upgrade": 50,
+        "author": "@hotdogmanisreal",
+        "special": "special can heal 15-25 hp every 3 turns"
     },
     {
         "name": "bedroom",
@@ -19,7 +30,7 @@
         "stamina": 2,
         "upgrade": 40,
         "author": "@hotdogmanisreal",
-        "special": "special can heal 5-10 HP and deal 5 damage"
+        "special": "special can heal 5-10 HP and deal 5 damage every 2 turns without spending a turn, available from lv.5"
     },
     {
         "name": "comic",
@@ -229,5 +240,16 @@
         "upgrade": 40,
         "author": "@hotdogmanisreal",
         "special": "special can force each twin to heal either 0 or 10 hp every 2 turns"
+    },
+    {
+        "name": "william",
+        "image": "https://moontr3.ru/assets/hdw/william.jpg",
+        "description": "a replica statue of a hotdog man",
+        "hp": "20<span class=\"darker\">-</span>25",
+        "damage": "10<span class=\"darker\">-</span>15",
+        "stamina": 2,
+        "upgrade": 60,
+        "author": "@morityu",
+        "special": "no special available"
     }
 ]
