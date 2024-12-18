@@ -250,7 +250,7 @@
         "stamina": 2,
         "upgrade": 40,
         "author": "@hotdogmanisreal",
-        "special": "special can force each twin to heal either 0 or 10 hp every 2 turns"
+        "special": "special can force each twin to heal either 0 or 20 hp every 2 turns"
     },
     {
         "name": "william",
