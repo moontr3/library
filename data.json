@@ -88,6 +88,17 @@
         "special": "special can deal 7-12 damage every 3 turns without spending a turn"
     },
     {
+        "name": "golden god hotdog",
+        "image": "https://moontr3.ru/assets/hdw/goldengodhotdog.jpg",
+        "description": "the ancestor of all the hotdog mans",
+        "hp": "20<span class=\"darker\">-</span>25",
+        "damage": "12<span class=\"darker\">-</span>17",
+        "stamina": 3,
+        "upgrade": 40,
+        "author": "@WarningCoffee3",
+        "special": "special can focus without spending a turn"
+    },
+    {
         "name": "high-res",
         "image": "https://moontr3.ru/assets/hdw/highres.jpg",
         "description": "the original high-quality hotdog man art",
