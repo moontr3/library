@@ -151,7 +151,7 @@
         "stamina": 2,
         "upgrade": 40,
         "author": "god knows who",
-        "special": "special can deal 5 damage every 2 turns without spending a turn"
+        "special": "special can deal 5 damage without spending a turn"
     },
     {
         "name": "old king",
