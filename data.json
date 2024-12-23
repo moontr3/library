@@ -217,7 +217,7 @@
         "stamina": 3,
         "upgrade": 40,
         "author": "@hotdogmanisreal",
-        "special": "special can heal 5 HP every 3 turns"
+        "special": "special can heal 5 HP every 2 turns without spending a turn"
     },
     {
         "name": "street type 1",
